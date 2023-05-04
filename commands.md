@@ -7,3 +7,7 @@ git commit		store snapshot into repository with meaningful message, useful histo
 git commit -m ""	-m is for message
 git status		check what we just did (if green can commit)
 git checkout -b new	switch to a new branch "new"
+git merge master	merge "master" with actual branch
+
+
+pruebo
